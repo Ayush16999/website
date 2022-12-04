@@ -45,7 +45,7 @@
 }
 
 .aboutUs{
-    background: linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.6)), url(./images/aboutus.jpg);
+    background: linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.6)), url(https://ayush16999.github.io/website/images/aboutus.jpg);
     /* background-image: url(/images/aboutus.jpg); */
     background-size: cover;
     height: 300px; 
@@ -105,7 +105,7 @@
 }
 
 .careerServices{
-    background: linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.6)), url(./images/careers.png);
+    background: linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.6)), url(https://ayush16999.github.io/website/images/careers.png);
     background-size: cover;
     height: 500px; 
     width:100%;
