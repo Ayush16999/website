@@ -1,0 +1,198 @@
+.navbar-brand img{
+    width: 200px;
+}
+
+.navbar{
+    background-color: #EEF1FF;
+}
+
+.navbar-collapse a{
+    color: #010c80;
+    font-size: 20px;
+    font-weight:600;
+    
+
+}
+
+.navbar-collapse a:hover{
+    text-decoration: underline;
+    text-decoration-thickness: 2px;
+    text-decoration-color: #010C80;
+    text-underline-offset: 10px;
+}
+
+.dropcontent:hover{
+    display: block;
+}
+
+.carousel-inner {
+    height: 500px;
+}
+
+.carousel-item img{
+    width: 100%;
+    height: 500px;
+}
+
+.overview{
+    font-size: 18px;
+    padding: 1rem 1rem;
+}
+
+.overviewDetails{
+    padding: 2rem;
+    font-size: 1.2rem;
+}
+
+.aboutUs{
+    background: linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.6)), url(/images/aboutus.jpg);
+    /* background-image: url(/images/aboutus.jpg); */
+    background-size: cover;
+    height: 300px; 
+    width:100%;
+    position: relative;
+}
+
+.aboutUs img{
+    position:absolute;
+    height: 300px;
+    width: 100%;
+}
+
+.aboutUs span{
+    position:relative;
+    float: right;
+    margin-top: 250px;
+    
+}
+.aboutUs span a{
+    width: 81rem;
+    border: none;
+}
+.footerBlock{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    color: #010c80;
+}
+
+.servicesContainer{
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+}
+
+.servicesBox{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 1rem;
+    height: 35rem;
+    justify-content: space-between;
+    border: 2px solid #EEEEEE;
+    margin-right: 1rem;
+}
+
+.servicesBox img{
+    border: 1px solid #EEEEEE;
+}
+
+.servicesBox button{
+    background-color: #EEF1FF;
+    color: #010C80;
+    border: none;
+    font-size: 1.8rem;
+}
+
+.careerServices{
+    background: linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.6)), url(/images/careers.png);
+    background-size: cover;
+    height: 500px; 
+    width:100%;
+    position: relative;
+}
+
+.careerServices span{
+    position: relative;
+    float: right;
+    margin-top: 27.3rem;
+}
+
+.careerServices span a{
+    width: 81rem;
+    font-size: 2rem;
+    border: none;
+}
+
+.careerContainer{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 1rem;
+    border: 2px solid #EEEEEE;
+}
+
+.careerImage{
+    border: 2px solid #EEEEEE;
+}
+
+
+.careerDetails{
+    padding: 2rem;
+    font-size: 16px;
+}
+
+
+.footOne{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.fa-arrow-right{
+    padding: 1rem;
+}
+
+.footTwo a{
+    text-decoration: none;
+    color: #010c80;
+}
+.footThree a{
+    text-decoration: none;
+    color: #010c80;
+}
+.footFour a{
+    text-decoration: none;
+    color: #010c80;
+}
+
+.servicesImage{
+    height: 550px;
+    width: 100%;
+}
+
+.servicesImage img{
+    height: 550px;
+    width: 100%;
+}
+
+.footTwo a:hover{
+   
+   margin-left: 0.5rem;
+}
+
+.footThree a:hover{
+   
+   margin-left: 0.5rem;
+}
+
+.footFour a:hover{
+   
+   margin-left: 0.5rem;
+}
+
+.credit{
+    background-color: #EEF1FF;
+    color: #010C80;
+
+}
